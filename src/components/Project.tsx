@@ -1,6 +1,6 @@
 import React from "react";
 import gol from '../assets/images/gol.png';
-import mock03 from '../assets/images/mock03.png';
+import shelter from '../assets/images/shelter.png';
 import dory from '../assets/images/dory.jpeg';
 import pavise from '../assets/images/pavise.png';
 import recipe from '../assets/images/recipes.png';
@@ -27,7 +27,7 @@ function Project() {
                 <p>An interactive art installation displayed at Gray Area as part of the code immersion exhibition.</p>
             </div>
             <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={shelter} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Ask Darcel App</h2></a>
                 <p>A React Native mobile app for Ask Darcel, a project for connecting unhoused people with resources.</p>
             </div>
