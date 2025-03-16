@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template/static/css/main.a4e48449.css",
-    "main.js": "/react-portfolio-template/static/js/main.30306f3b.js",
-    "static/js/453.b05d8aa5.chunk.js": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js",
-    "static/media/pavise.png": "/react-portfolio-template/static/media/pavise.cc1397aec033281de3c2.png",
-    "static/media/shelter.png": "/react-portfolio-template/static/media/shelter.10fd016ce99968848a0f.png",
-    "static/media/sparrow-bionic.png": "/react-portfolio-template/static/media/sparrow-bionic.595f1200c77c541bb729.png",
-    "static/media/earth-ob.jpg": "/react-portfolio-template/static/media/earth-ob.ec64feda13463b071041.jpg",
-    "static/media/dory.jpeg": "/react-portfolio-template/static/media/dory.1731e9ab91a40eaba28e.jpeg",
-    "static/media/recipes.png": "/react-portfolio-template/static/media/recipes.3f5c055cdab429dbcf9f.png",
-    "static/media/tabby-stars.jpg": "/react-portfolio-template/static/media/tabby-stars.fe9d6545020ce4c5b71a.jpg",
-    "static/media/gol.png": "/react-portfolio-template/static/media/gol.23e67e995573360ffe58.png",
-    "index.html": "/react-portfolio-template/index.html",
-    "main.a4e48449.css.map": "/react-portfolio-template/static/css/main.a4e48449.css.map",
-    "main.30306f3b.js.map": "/react-portfolio-template/static/js/main.30306f3b.js.map",
-    "453.b05d8aa5.chunk.js.map": "/react-portfolio-template/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/static/css/main.d059eead.css",
+    "main.js": "/static/js/main.c4a497bf.js",
+    "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/pavise.png": "/static/media/pavise.cc1397aec033281de3c2.png",
+    "static/media/shelter.png": "/static/media/shelter.10fd016ce99968848a0f.png",
+    "static/media/sparrow-bionic.png": "/static/media/sparrow-bionic.595f1200c77c541bb729.png",
+    "static/media/earth-ob.jpg": "/static/media/earth-ob.ec64feda13463b071041.jpg",
+    "static/media/dory.jpeg": "/static/media/dory.1731e9ab91a40eaba28e.jpeg",
+    "static/media/recipes.png": "/static/media/recipes.3f5c055cdab429dbcf9f.png",
+    "static/media/tabby-stars.jpg": "/static/media/tabby-stars.fe9d6545020ce4c5b71a.jpg",
+    "static/media/gol.png": "/static/media/gol.23e67e995573360ffe58.png",
+    "index.html": "/index.html",
+    "main.d059eead.css.map": "/static/css/main.d059eead.css.map",
+    "main.c4a497bf.js.map": "/static/js/main.c4a497bf.js.map",
+    "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4e48449.css",
-    "static/js/main.30306f3b.js"
+    "static/css/main.d059eead.css",
+    "static/js/main.c4a497bf.js"
   ]
 }
