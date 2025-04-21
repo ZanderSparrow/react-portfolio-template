@@ -4,6 +4,7 @@ import shelter from '../assets/images/shelter.png';
 import dory from '../assets/images/dory.jpeg';
 import pavise from '../assets/images/pavise.png';
 import recipe from '../assets/images/recipes.png';
+import translawmap from '../assets/images/translawmap.png';
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -15,6 +16,11 @@ function Project() {
                 <a href="https://zandersparrow.github.io/GoL/" target="_blank" rel="noreferrer"><img src={gol} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://zandersparrow.github.io/GoL/" target="_blank" rel="noreferrer"><h2>Game of Life</h2></a>
                 <p>An implementation of Conway's Game of Life using Processing.</p>
+            </div>
+            <div className="project">
+                <a href="https://zandersparrow.github.io/translawmap/" target="_blank" rel="noreferrer"><img src={translawmap} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://zandersparrow.github.io/translawmap/" target="_blank" rel="noreferrer"><h2>Trans Law Map</h2></a>
+                <p>A map of trans-related laws across the United States.</p>
             </div>
             <div className="project">
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={pavise} className="zoom" alt="thumbnail" width="100%"/></a>
