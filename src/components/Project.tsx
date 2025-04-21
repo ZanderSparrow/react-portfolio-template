@@ -23,23 +23,23 @@ function Project() {
                 <p>A map of trans-related laws across the United States.</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={pavise} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>Pavise</h2></a>
+                <a href="https://gist.github.com/ZanderSparrow/069e6b5749c4225352e23375947699e1" target="_blank" rel="noreferrer"><img src={pavise} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://gist.github.com/ZanderSparrow/069e6b5749c4225352e23375947699e1" target="_blank" rel="noreferrer"><h2>Pavise</h2></a>
                 <p>A text-based game written in Python</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><img src={dory} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>Connection Project</h2></a>
-                <p>An interactive art installation displayed at Gray Area as part of the code immersion exhibition.</p>
+                <a href="https://grayarea.org/course/creative-code-intensive/" target="_blank" rel="noreferrer"><img src={dory} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://grayarea.org/course/creative-code-intensive/" target="_blank" rel="noreferrer"><h2>Connection Project</h2></a>
+                <p>An interactive art installation displayed at Gray Area as part of the creative code intensive exhibition.</p>
             </div>
             <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={shelter} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Ask Darcel App</h2></a>
+                <a href="https://www.sheltertech.org/" target="_blank" rel="noreferrer"><img src={shelter} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://www.sheltertech.org/" target="_blank" rel="noreferrer"><h2>Ask Darcel App</h2></a>
                 <p>A React Native mobile app for Ask Darcel, a project for connecting unhoused people with resources.</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={recipe} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>Recipe Box</h2></a>
+                <a href="https://github.com/ZanderSparrow/django-recipe-api" target="_blank" rel="noreferrer"><img src={recipe} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/ZanderSparrow/django-recipe-api" target="_blank" rel="noreferrer"><h2>Recipe Box</h2></a>
                 <p>An API for storing and sharing recipes, built in python with Django.</p>
             </div>
             <div className="project">
