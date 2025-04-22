@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Senior Analyst, Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">Valtech</h4>
             <p>
-              Internal aerospace tools. React, Python, AWS Lambda, Cloud Formation, Elastic Beanstalk, API Gateway, DynamoDB
+              <span className="vertical-timeline-description">Internal aerospace tools.</span> TypeScript, React, Python, AWS Lambda, Cloud Formation, Elastic Beanstalk, API Gateway, DynamoDB
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Lead Full Stack Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">CareCopilot</h4>
             <p>
-              Help for caregivers. React, Redux, Django, PostGreSQL, RDS, AWS, Docker, Mentoring, Team Leading
+            <span className="vertical-timeline-description">Help for caregivers.</span> React, Redux, Django, PostGreSQL, RDS, AWS, Docker, Mentoring, Team Leading
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Back End Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Britelite Immersive</h4>
             <p>
-              Interactive art installations. Python, Flask, Docker, Kubernetes, Ansible, Proxmox, Arduino
+            <span className="vertical-timeline-description">Interactive art installations.</span> Python, Flask, Docker, Kubernetes, Ansible, Proxmox, Arduino
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Machinist</h3>
             <h4 className="vertical-timeline-element-subtitle">Modbot</h4>
             <p>
-              Robotics manufacturing. Automation, Jenkins, soldering, inventory management, Python, BASH
+            <span className="vertical-timeline-description">Robotics manufacturing.</span> Automation, Jenkins, soldering, inventory management, Python, BASH
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -71,7 +71,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Assembler</h3>
             <h4 className="vertical-timeline-element-subtitle">DJ TechTools</h4>
             <p>
-              Midi controller assembly. Soldering, inventory management, BASH
+              <span className="vertical-timeline-description">Midi controller assembly.</span> Soldering, inventory management, BASH
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -83,7 +83,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Scalable Press</h4>
             <p>
-              On-demand T-shirt printing. React, Redux, Material UI, Angular, Node.js, MongoDB
+              <span className="vertical-timeline-description">On-demand t-shirt printing.</span> React, Redux, Material UI, Angular, Node.js, MongoDB
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
