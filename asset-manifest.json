@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.52cb740f.css",
-    "main.js": "/static/js/main.8687f096.js",
+    "main.css": "/static/css/main.e61cb426.css",
+    "main.js": "/static/js/main.6be6bb45.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/translawmap.png": "/static/media/translawmap.cbe6dd96279108829acb.png",
     "static/media/pavise.png": "/static/media/pavise.cc1397aec033281de3c2.png",
@@ -13,12 +13,12 @@
     "static/media/tabby-stars.jpg": "/static/media/tabby-stars.fe9d6545020ce4c5b71a.jpg",
     "static/media/gol.png": "/static/media/gol.23e67e995573360ffe58.png",
     "index.html": "/index.html",
-    "main.52cb740f.css.map": "/static/css/main.52cb740f.css.map",
-    "main.8687f096.js.map": "/static/js/main.8687f096.js.map",
+    "main.e61cb426.css.map": "/static/css/main.e61cb426.css.map",
+    "main.6be6bb45.js.map": "/static/js/main.6be6bb45.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52cb740f.css",
-    "static/js/main.8687f096.js"
+    "static/css/main.e61cb426.css",
+    "static/js/main.6be6bb45.js"
   ]
 }
