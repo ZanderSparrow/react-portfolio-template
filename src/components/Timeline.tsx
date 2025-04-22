@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Senior Analyst, Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">Valtech</h4>
             <p>
-              Developing internal aerospace tools, AWS microservices, React front end, python backend, DynamoDB
+              Internal aerospace tools. React, Python, AWS Lambda, Cloud Formation, Elastic Beanstalk, API Gateway, DynamoDB
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Lead Full Stack Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">CareCopilot</h4>
             <p>
-              React, Redux, Django, PostGreSQL, RDS, AWS, Docker, Mentoring, Team Leading
+              Help for caregivers. React, Redux, Django, PostGreSQL, RDS, AWS, Docker, Mentoring, Team Leading
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -47,7 +47,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Back End Developer</h3>
             <h4 className="vertical-timeline-element-subtitle">Britelite Immersive</h4>
             <p>
-              Back end, Python, Flask, Docker, Kubernetes, Ansible, Proxmox, Arduino, interactive installations
+              Interactive art installations. Python, Flask, Docker, Kubernetes, Ansible, Proxmox, Arduino
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,31 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Machinist</h3>
             <h4 className="vertical-timeline-element-subtitle">Modbot</h4>
             <p>
-              Robotics, Automation, inventory management, Python, BASH
+              Robotics manufacturing. Automation, Jenkins, soldering, inventory management, Python, BASH
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2017 - 2018"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Assembler</h3>
+            <h4 className="vertical-timeline-element-subtitle">DJ TechTools</h4>
+            <p>
+              Midi controller assembly. Soldering, inventory management, BASH
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2016"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Full Stack Developer</h3>
+            <h4 className="vertical-timeline-element-subtitle">Scalable Press</h4>
+            <p>
+              On-demand T-shirt printing. React, Redux, Material UI, Angular, Node.js, MongoDB
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
